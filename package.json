@@ -1,8 +1,10 @@
 {
+  "homepage":"https://eva-lm.github.io/directorio-personas",
   "name": "exercise-1-directorio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "node-sass": "^5.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -10,6 +12,8 @@
     "react-scripts": "3.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -29,5 +33,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }

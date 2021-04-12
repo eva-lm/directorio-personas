@@ -91,7 +91,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <header>
-          <h1>People Directory</h1>
+          <h1 className="title">People Directory</h1>
         </header>
         {this.state.users.isFetching ? (
           <p>Loading....</p>
