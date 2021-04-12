@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/directorio-personas/static/css/main.bcd884ee.chunk.css",
+    "main.js": "/directorio-personas/static/js/main.d0be515d.chunk.js",
+    "main.js.map": "/directorio-personas/static/js/main.d0be515d.chunk.js.map",
+    "runtime~main.js": "/directorio-personas/static/js/runtime~main.110742fd.js",
+    "runtime~main.js.map": "/directorio-personas/static/js/runtime~main.110742fd.js.map",
+    "static/js/2.cafe9e5c.chunk.js": "/directorio-personas/static/js/2.cafe9e5c.chunk.js",
+    "static/js/2.cafe9e5c.chunk.js.map": "/directorio-personas/static/js/2.cafe9e5c.chunk.js.map",
+    "index.html": "/directorio-personas/index.html",
+    "precache-manifest.579325bc1793c55491c4d02967f9c038.js": "/directorio-personas/precache-manifest.579325bc1793c55491c4d02967f9c038.js",
+    "service-worker.js": "/directorio-personas/service-worker.js",
+    "static/css/main.bcd884ee.chunk.css.map": "/directorio-personas/static/css/main.bcd884ee.chunk.css.map"
+  }
+}
